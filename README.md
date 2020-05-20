@@ -8,7 +8,7 @@ ipv6_stolen provides an solution by NDP spoof and add some host routes，make th
 
 ### for example in home network
 
-![ipv6](./ipv6 stolen.png)
+![ipv6](ipv6 stolen.jpg)
 
 
 if you use this little tool, the scapy python module should be install. 

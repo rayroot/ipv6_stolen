@@ -22,4 +22,22 @@ or:
 
 ````
 
+### ipv4 stolen 
+
+if you want to use ipv4 stolen  
+
+````
+./ipv4_stolen.py -h
+The usage is: 
+./ipv4_stolen.py -u <uplink dev> -t <target ipv4 address>
+or: 
+./ipv4_stolen.py --uplink=<uplinl dev> --target=<target ipv4 address>
+
+````
+
+
+
+
+
+
 
